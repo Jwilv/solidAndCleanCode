@@ -25,7 +25,7 @@
     // 3 doritos después
     //...
     // Tiempo al final
-    const endTime = new Date().getTime() - start;
+    const endTime = new Date().getTime() - startTime;
 
 
     // Funciones
