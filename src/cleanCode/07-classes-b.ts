@@ -68,7 +68,8 @@
 
 (() => {
 
-    // No aplicando el principio de responsabilidad única
+    // aplicando el principio de responsabilidad única
+    //  ninguna clase hereda otra clase padre y se usan interfaces 
 
     type Gender = 'M' | 'F';
 
